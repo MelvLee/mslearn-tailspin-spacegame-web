@@ -1,3 +1,4 @@
+[![Build Status](https://iswish.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/MelvLee.mslearn-tailspin-spacegame-web?branchName=master)](https://iswish.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=11&branchName=master)
 
 # Contributing
 
